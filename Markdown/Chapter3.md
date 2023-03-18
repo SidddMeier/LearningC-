@@ -13,7 +13,8 @@
 ``` c++
     char *str = "Hello";
     char *beg = begin(str);
-    char *end = end(str);
-    cout << end - beg << endl;
+    char *endll = end(str); //begin、end函数定义在iterator头文件中；endll指向'/0'的下一个未知。
+    cout << endll - beg << endl;
+    //
 ```
   
