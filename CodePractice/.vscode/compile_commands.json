@@ -1,0 +1,6 @@
+[
+{
+  "directory": "d:\\CLearning\\CodePractice",
+  "arguments": ["clang.exe", "-c", "-Qunused-arguments", "-m64", "-fexceptions", "-fcxx-exceptions", "-o", "build\\.objs\\Try\\windows\\x64\\Try.cpp.obj", "Try.cpp"],
+  "file": "Try.cpp"
+}]

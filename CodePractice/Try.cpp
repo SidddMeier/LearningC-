@@ -8,5 +8,5 @@ int main(){
     char * str = arr;
     char *begin = str;
     char *endll = end(arr);
-    cout << endll - begin<<endl << *(--endll) <<endl;
+    cout << endll - begin<<endl << *(endll) <<endl;
 }
